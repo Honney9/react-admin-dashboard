@@ -8,12 +8,12 @@ const Profile = () => {
     <SettingSection icon={User} title={"Profile"}>
         <div className="flex flex-col sm:flex-row items-center mb-6">
             <img
-             src="https://th.bing.com/th/id/OIP.YOxRJU9lPfwJJMzsB4xCTwHaEK?rs=1&pid=ImgDetMain" 
+             src="https://tse2.mm.bing.net/th?id=OIP.jyMDXEZYUiZUONcCLxdBjQAAAA&pid=Api&P=0&h=180" 
              alt="Profile" 
              className="rounded-full size-20 object-cover mr-4"/>
             <div>
                 <h3 className="text-lg font-semibold text-gray-100">John Doe</h3>
-                <p className="text-gray-400">john.doe@example.com</p>
+                <p className="text-gray-400">abc@example.com</p>
             </div>
 
         </div>
