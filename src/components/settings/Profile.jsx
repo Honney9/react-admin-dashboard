@@ -12,7 +12,7 @@ const Profile = () => {
              alt="Profile" 
              className="rounded-full size-20 object-cover mr-4"/>
             <div>
-                <h3 className="text-lg font-semibold text-gray-100">John Doe</h3>
+                <h3 className="text-lg font-semibold text-gray-100">Honney Walia</h3>
                 <p className="text-gray-400">abc@example.com</p>
             </div>
 
